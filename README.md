@@ -4,7 +4,7 @@
 <h3 align="left">🌱 Programming Language</h3>
 
 <p align="left"> Programming language that I've used at least once </p>
-<br>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/R-11B48A?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/D3.js-1572B6?style=flat-square&logo=d3.js&logoColor=white"/></a>&nbsp 
 </p>
-<br>
+
 <h3 align="left"> 💬 Contact </h3>
 <p align="left">
   <a href="https://twitter.com/shouts77" target="_blank"><img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/shouts77o"/></a>
