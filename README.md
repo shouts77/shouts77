@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=shouts&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=shouts&fontSize=70&animation=twinkling)
 
 
-<h3 align="center">🛠 Programming Language Stacks 🛠</h3>
+<h3 align="left">🌱 Programming Language</h3>
 
-<p align="center"> Programming language that I've used at least once </p>
+<p align="left"> Programming language that I've used at least once </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/R-11B48A?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
@@ -16,8 +16,8 @@
 
 <br>
 
-<h3 align="center"> Contact </h3>
-<p align="center">
+<h3 align="left"> 💬 Contact </h3>
+<p align="left">
   <a href="https://twitter.com/shouts77" target="_blank"><img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/shouts77o"/></a>
 </p>
 <br>
