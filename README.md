@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&&text=shouts&apos;&nbsp;github&fontSize=70&fontAlign=30&fontAlignY=30&animation=twinkling)
 
-<h3 align="left">🌱 Programming Language</h3>
+<h3 align="left">🌱 Programming Languages</h3>
 
-<p align="left"> Programming language that I've used at least once </p>
+<p align="left"> Programming languages that I've used at least once </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
