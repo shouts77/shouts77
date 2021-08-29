@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&&text=shouts&apos;&nbsp;github&fontSize=70&fontAlign=25&fontAlignY=30&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&&text=shouts&apos;&nbsp;github&fontSize=70&fontAlign=28&fontAlignY=30&animation=twinkling)
 
 
 <h3 align="left">🌱 Programming Language</h3>
