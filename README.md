@@ -13,7 +13,7 @@
 
 <h3 align="left"> 🔭 Currently Working On... </h3>
 <p align="left">
- - Data Visualizaiont with D3.js
+ - Data Visualization with D3.js
 </p>
 
 <h3 align="left"> 📫 Contact </h3>
