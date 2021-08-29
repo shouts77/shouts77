@@ -1,4 +1,38 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=shouts' github&fontSize=70&animation=twinkling)
+
+
+<h3 align="center">🛠 Programming Language Stacks 🛠</h3>
+
+<p align="center"> Programming language that I've used at least once </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/R-11B48A?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/D3.js-1572B6?style=flat-square&logo=d3.js&logoColor=white"/></a>&nbsp 
+
+</p>
+
+<br>
+
+<h3 align="center">🪄 Blog 🪄</h3>
+
+<div align="center" style="text-align:center">
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo&tag=기술면접대비)](https://velog.io/@woo0_hooo)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo)](https://velog.io/@woo0_hooo)
+  
+</div>
+  
+<br>
+
+
+<h3 align="center"> Contact </h3>
+<p align="center">
+  <a href="https://twitter.com/shouts77" target="_blank"><img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/shouts77o"/></a>
+</p>
+<br>
 
 <!--
 **shouts77/shouts77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
