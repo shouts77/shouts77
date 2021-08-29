@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&&text=shouts&apos;&nbsp;github&fontSize=70&fontAlign=30&fontAlignY=30&animation=twinkling)
 
+Welcome to shouts' githup!
+
 <h3 align="left">🌱 Programming Languages</h3>
 
 <p align="left"> Programming languages that I've used at least once </p>
