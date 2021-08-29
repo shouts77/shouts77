@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/D3.js-1572B6?style=flat-square&logo=d3.js&logoColor=white"/></a>&nbsp 
 </p>
-
+<br>
 <h3 align="left"> 💬 Contact </h3>
 <p align="left">
   <a href="https://twitter.com/shouts77" target="_blank"><img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/shouts77o"/></a>
