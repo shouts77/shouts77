@@ -8,12 +8,14 @@
   <img src="https://img.shields.io/badge/R-11B48A?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/D3.js-1572B6?style=flat-square&logo=d3.js&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/D3.js-1572B6?style=flat-square&logo=d3.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/P5.js-red?style=flat-square&logo=p5.js&logoColor=white"/></a>&nbsp 
 </p>
 
 <h3 align="left"> 🔭 Currently Working On... </h3>
 <p align="left">
  - Data Visualization with D3.js
+ - Generative Art with P5.js
 </p>
 
 <h3 align="left"> 📫 Contact </h3>
