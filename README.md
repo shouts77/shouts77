@@ -15,6 +15,7 @@
 <h3 align="left"> 🔭 Currently Working On... </h3>
 <p align="left">
  - Data Visualization with D3.js
+ <br />
  - Generative Art with P5.js
 </p>
 
