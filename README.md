@@ -9,7 +9,9 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/D3.js-1572B6?style=flat-square&logo=d3.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/P5.js-red?style=flat-square&logo=p5.js&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/P5.js-red?style=flat-square&logo=p5.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D"/></a>&nbsp
 </p>
 
 <h3 align="left"> 🔭 Currently Working On... </h3>
