@@ -4,6 +4,7 @@
 <p align="left">
  - Programming languages that I've used at least once </p>
 <p align="left">
+  <!-- icon : https://simpleicons.org/ // badge : https://shields.io/ -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/R-11B48A?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
@@ -13,6 +14,7 @@
   <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D"/></a>&nbsp
 </p>
+
 
 <h3 align="left"> 🔭 Currently Working On... </h3>
 <p align="left">
