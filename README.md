@@ -28,12 +28,11 @@
  - Generative Art with P5.js
 </p>
 
-<!--
 <h3 align="left"> 📫 Contact </h3>
 <p align="left">
-  <a href="https://twitter.com/shouts77" target="_blank"><img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/shouts77"/></a>
+  <a href="https://twitter.com/shouts98" target="_blank"><img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/shouts98"/></a>
 </p>
--->
+
 
 <h3 align="left"> ⚡ Appendix </h3> 
 <p align="left">
