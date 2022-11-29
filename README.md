@@ -16,6 +16,13 @@
 
 <h3 align="left"> 🔭 Currently Working On... </h3>
 <p align="left">
+ - learning C language
+ <br />
+ - setting Jupyterhub server
+</p>
+
+<h3 align="left"> 🤔 Works pending... </h3>
+<p align="left">
  - Data Visualization with D3.js
  <br />
  - Generative Art with P5.js
@@ -30,7 +37,7 @@
 
 <h3 align="left"> ⚡ Appendix </h3> 
 <p align="left">
- - Header Source by <a href="https://github.com/kyechan99" target="_blank">kyechan99</a>
+ - Header Source by <a href="https://github.com/kyechan99/capsule-render" target="_blank">kyechan99/capsule-render</a>
 </p>
 <!--
 **shouts77/shouts77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
