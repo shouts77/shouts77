@@ -4,9 +4,9 @@
 <p align="left">
  - Programming languages that I've used at least once </p>
 <p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/R-11B48A?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/D3.js-1572B6?style=flat-square&logo=d3.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/P5.js-red?style=flat-square&logo=p5.js&logoColor=white"/></a>&nbsp
