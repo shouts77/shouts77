@@ -21,6 +21,8 @@
  - learning C language
  <br />
  - setting Jupyterhub server
+  <br />
+ - learning Vim
 </p>
 
 <h3 align="left"> 🤔 Works pending... </h3>
