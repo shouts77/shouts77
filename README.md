@@ -18,11 +18,11 @@
 
 <h3 align="left"> 🔭 Currently Working On... </h3>
 <p align="left">
- - learning C language
- <br />
- - setting Jupyterhub server
-  <br />
  - learning Vim
+ <br />
+ - learning C language
+  <br />
+
 </p>
 
 <h3 align="left"> 🤔 Works pending... </h3>
