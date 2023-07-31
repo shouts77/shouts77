@@ -20,8 +20,6 @@
 <p align="left">
  - learning Vim
  <br />
- - learning C language
-  <br />
 
 </p>
 
