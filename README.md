@@ -17,7 +17,7 @@
 
 <h3 align="left"> 🔭 Currently Working On... </h3>
 <p align="left">
- - SveteKit Blog
+ - SvelteKit Blog
 <br />
 
 </p>
