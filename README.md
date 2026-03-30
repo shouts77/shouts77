@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&&text=Hello&nbsp;World!&fontSize=70&fontAlign=30&fontAlignY=30&animation=twinkling)
 
-<!--
-<h3 align="left"> 🌱 Programming Languages</h3>
+
+<!-- <h3 align="left"> 🌱 Programming Languages</h3>
 <p align="left">
  - Programming languages that I've used at least once </p>
 <p align="left">
@@ -15,8 +15,8 @@
   <img src="https://img.shields.io/badge/React-3766AB?style=flat&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D"/></a>&nbsp
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/></a>&nbsp
-</p>
--->
+</p> -->
+
 
 <h3 align="left"> 🔭 Currently Working On... </h3>
 <p align="left">
